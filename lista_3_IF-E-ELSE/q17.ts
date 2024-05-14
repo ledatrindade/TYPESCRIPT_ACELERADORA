@@ -23,3 +23,4 @@ if ( num1 < num2 ){
 } else {
  console.log("Os números devem ser diferentes, respostas inválidas");
 }
+

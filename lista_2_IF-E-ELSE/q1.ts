@@ -13,3 +13,4 @@ let z: number = Number(readline.question("Digite o segundo valor: "));
 
 console.log("Resultado da subtração:", subtracao(n, z));
 
+

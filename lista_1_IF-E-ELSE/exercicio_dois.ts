@@ -114,3 +114,4 @@ let nota4: number = Number(readline.question("Digite a quarta nota: "));
 console.log("Seu resultado foi:", mediaA(nota1, nota2, nota3, nota4));
 
 
+
